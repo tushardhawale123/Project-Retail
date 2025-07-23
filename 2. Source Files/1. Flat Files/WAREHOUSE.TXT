@@ -1,0 +1,30 @@
+"BRANCH_CODE"	"ADDRESS1"	"CITY"	"POSTAL_ZONE"	"COUNTRY_CODE"	"WAREHOUSE_BRANCH_CODE"
+6	"75, rue du Faubourg St-Honoré"	"Paris"	"F-75008"	6001	38
+7	"Piazza Duomo, 1"	"Milano"	"I-20121"	7006	7
+9	"Singelgravenplein 4"	"Amsterdam"	"1233 BW"	5007	15
+13	"Schwabentor 35"	"Hamburg"	"D-22529"	6002	38
+14	"Leopoldstraße 36"	"München"	"D-81241"	6002	38
+15	"Isafjordsgatan 30 C"	"Kista"	"S-164 40"	5010	15
+17	"7800, 756 - 6th Avenue. S.W."	"Calgary"	"T2P 3Z0"	1004	17
+18	"789 Yonge Street"	"Toronto"	"M2M 4K8"	1004	19
+19	"1288 Dorchester Avenue"	"Boston"	"02133"	1003	19
+20	"299 Yale Avenue"	"Seattle"	"98139"	1003	17
+21	"1288 South Barrington Ave."	"Los Angeles"	"90072"	1003	21
+22	"10032 NW 186th"	"Miami"	"33024"	1003	19
+23	"6c, rue de l'Église"	"Lyon"	"F-69002"	6001	38
+24	"Prol. Paseo de la Reforma No. 51"	"Distrito Federal"	"01219"	1020	21
+25	"202-2-3 Hyakunincho"	"Tokyo"	"681-3187"	4011	26
+26	"543-225 Asahi"	"Osaka City"	"616-5698"	4011	26
+28	"2315 Queen's Ave"	"Melbourne"	"2088"	4016	28
+29	"Plaza de la Constitución, s/n"	"Bilbao"	"48223"	7019	7
+30	"Avenida Paulista, 333"	"São Paulo"	"01403-090"	1021	30
+31	"Kauppakatu 33"	"Kuopio"	"FIN-73100"	5022	15
+32	"234-12, Kongdeok-Dong"	"Seoul"	"121-020"	4013	34
+33	"10 Claymore Hill "	"Singapore"	"229573"	4012	34
+34	"No. 1277 Beijing Xi Road"	"Shanghai"	"200040"	4014	34
+35	"Victoria House"	"London"	"N17 7LX"	6009	38
+36	"3 Albany Court"	"Birmingham"	"B43 7NP"	6009	38
+37	"Birchstraße 13"	"Zürich"	"CH-8057"	6008	38
+38	"Interleuvenlaan 2"	"Heverlee"	"B-3001"	6017	38
+39	"Jedleser Straße 7"	"Wien"	"A-1210"	7005	7
+40	"55 Rue Rothschild"	"Genève"	"CH-1202"	6008	40
